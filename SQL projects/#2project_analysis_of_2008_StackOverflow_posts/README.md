@@ -8,8 +8,7 @@ StackOverflow похож на социальную сеть — пользова
 https://www.stackoverflow.com/
 
 ER-диаграмма базы данных:
-![ER-диаграмма проекта Продвинутый SQL]
-(https://pictures.s3.yandex.net/resources/Frame_353_1_1664969703.png)
+![ER-диаграмма проекта Продвинутый SQL](https://pictures.s3.yandex.net/resources/Frame_353_1_1664969703.png)
 
 Описание данных, которые хранят таблицы:
 
